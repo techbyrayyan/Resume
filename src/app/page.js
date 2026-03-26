@@ -115,11 +115,11 @@ export default function Home() {
             {/* Stats */}
             <div className="flex flex-wrap justify-center lg:justify-start mt-10 border border-white/20 rounded-xl overflow-hidden bg-white/5 backdrop-blur-sm">
               <div className="px-6 md:px-8 py-4 text-center border-r border-white/10 flex-1">
-                <h3 className="text-xl md:text-2xl font-bold text-white">15 Y.</h3>
+                <h3 className="text-xl md:text-2xl font-bold text-white">1.5 Y.</h3>
                 <p className="text-white/60 text-[10px] md:text-xs mt-1 uppercase tracking-wider">Experience</p>
               </div>
               <div className="px-6 md:px-8 py-4 text-center border-r border-white/10 flex-1">
-                <h3 className="text-xl md:text-2xl font-bold text-white">250+</h3>
+                <h3 className="text-xl md:text-2xl font-bold text-white">100+</h3>
                 <p className="text-white/60 text-[10px] md:text-xs mt-1 uppercase tracking-wider">Projects</p>
               </div>
               <div className="px-6 md:px-8 py-4 text-center flex-1">
