@@ -99,7 +99,7 @@ export default function Home() {
             <h1 className="text-4xl md:text-5xl lg:text-5xl font-bold text-white leading-tight mb-5">
               Hello, I'm <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#a855f7] to-[#06b6d4]">
-                Rayyan Ansari
+                Muhammad Rayyan
               </span>
             </h1>
             <p className="text-white text-sm md:text-base leading-relaxed mb-8">
